@@ -5,5 +5,4 @@ xcuserdata/
 *.xccheckout
 *.xcscmblueprint
 .DS_Store
-project.pbxproj
-project.xcworkspace/
+xcuserdata/
