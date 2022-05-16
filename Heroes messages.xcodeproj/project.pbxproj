@@ -62,6 +62,7 @@
 		04946F272832A30800B8DA93 /* CoreDataContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataContainer.swift; sourceTree = "<group>"; };
 		04946F3D2832BBEE00B8DA93 /* DBMessages+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DBMessages+CoreDataClass.swift"; sourceTree = "<group>"; };
 		04946F3E2832BBEE00B8DA93 /* DBMessages+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DBMessages+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		04946F412832DE1800B8DA93 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		04E574BD2830E76300D49024 /* Heroes messages.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Heroes messages.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E574C02830E76300D49024 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04E574C22830E76300D49024 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -188,6 +189,7 @@
 			isa = PBXGroup;
 			children = (
 				04E574BF2830E76300D49024 /* Heroes messages */,
+				04946F412832DE1800B8DA93 /* Readme.md */,
 				04E574BE2830E76300D49024 /* Products */,
 			);
 			sourceTree = "<group>";
